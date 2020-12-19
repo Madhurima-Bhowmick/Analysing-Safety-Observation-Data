@@ -15,6 +15,7 @@ It usually involves the process of structuring the input text, deriving patterns
 3. os
 4. matplotlib
 5. tkinter
+6. numpy
 
 
 ### Steps involved in Text Mining :
