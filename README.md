@@ -88,3 +88,4 @@ Here, SentimentIntensityAnanlyzer is imported from vaderSentiment. polarity_scor
 ### GUI Window Screenshot
 
 
+![Capture](https://user-images.githubusercontent.com/76059423/102685916-f35c8d80-4209-11eb-9c97-4773989dad2a.PNG)
